@@ -15,14 +15,14 @@
                                         <div class="col-lg-6 col-md-12  wow move-up">
                                             <div class="payment-process-step__content float-md-right">
                                                 <div class="payment-process__inner">
-                                                    <h4 class="font-weight--blod section-space--mb_40">Payment system access
+                                                    <h4 class="font-weight--blod section-space--mb_40">Собираемость платежей.
                                                         <sup>03</sup>
                                                     </h4>
                                                     <div class="sub-text section-space--mb_40">
-                                                        The access to payment account is conducted through 2-step authentication…
+                                                        Маркетинговые исследования подтвердили, что после установки системы биллинга, учет и собираемость платежей увеличилась на большинстве предприятий.
                                                     </div>
 
-                                                    <div class="payment-conters section-space--mb_40">
+                                                    <!-- <div class="payment-conters section-space--mb_40">
                                                         <div class="row">
                                                             <div class="col-md-6 col-sm-6">
                                                                 <div class="fun-fact--three ">
@@ -41,11 +41,11 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
-                                                    <div class="payment-process-btn section-space--mb_40">
+                                                    </div> -->
+                                                    <!-- <div class="payment-process-btn section-space--mb_40">
                                                         <a href="#" class="image-btn"><img src="../../assets/img/icons/aeroland-black-button-google-play.jpg" alt=""></a>
                                                         <a href="#" class="image-btn"><img src="../../assets/img/icons/aeroland-black-button-google-play.jpg" alt=""></a>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>

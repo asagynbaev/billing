@@ -5,8 +5,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title text-center section-space--mb_60">
-                            <h2 class="font-weight--bold mb-15 wow move-up">Advantages AeroLand Brings</h2>
-                            <span class="section-text wow move-up">You’ll need these advantages to take the lead.</span>
+                            <h2 class="font-weight--bold mb-15 wow move-up">Наши преимущества</h2>
+                            <span class="section-text wow move-up">Перечень организаций-поставщиков, которым мы предлагаем систему биллинга</span>
                         </div>
                     </div>
                 </div>

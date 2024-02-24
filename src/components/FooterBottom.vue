@@ -45,10 +45,10 @@
                                     </span>
                                 </li>
                                 <li>
-                                    <a href="tel:0123456789" class="hover-style-link hover-style-link--sub-color">0123456789</a>
+                                    <a href="tel:0550146224" class="hover-style-link hover-style-link--sub-color">0550146224</a>
                                 </li>
                                 <li>
-                                    <a href="mailto:demo@example.com" class="hover-style-link hover-style-link--sub-color">demo@example.com</a>
+                                    <a href="mailto:info@billing.kg" class="hover-style-link hover-style-link--sub-color">info@billing.kg</a>
                                 </li>
                             </ul>
                         </div>

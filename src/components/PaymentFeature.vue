@@ -24,33 +24,33 @@
                 items: [
                     {
                         icon: require('../assets/img/icons/aeroland-payment-box-icon-01.png'),
-                         heading:'Simple order submit', 
-                        text:'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                         heading:'ТСЖ, ЖСК и ЖЭУ', 
+                        text:'Наши инновационные решения по системам биллинга предназначены для повышения эффективности управления и обслуживания Товариществ собственников жилья (ТСЖ), Жилищно-строительных кооперативов (ЖСК) и Жилищно-эксплуатационных управлений (ЖЭУ).'
                     },
                     {
                         icon: require('../assets/img/icons/aeroland-payment-box-icon-02.png'), 
-                        heading:'Wireless payment', 
-                        text:'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        heading:'Управляющие организации', 
+                        text:'Наша система предназначена для поддержки управляющих компаний в решении разнообразных задач, связанных с финансовым учетом, техническим обслуживанием и взаимодействием с жильцами.'
                     },
                     {
                         icon: require('../assets/img/icons/aeroland-payment-box-icon-03.png'), 
-                        heading:'Hassle-free payment', 
-                        text:'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        heading:'Расчетные центры', 
+                        text:'Наша система предназначена для обеспечения эффективного управления финансовыми потоками, точных расчетов и высокого уровня автоматизации.'
                     },
                     {
                         icon: require('../assets/img/icons/aeroland-payment-box-icon-04.png'), 
-                        heading:'Mobile app support', 
-                        text:'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        heading:'Региональные операторы по обращению с ТБО ', 
+                        text:'Мы предоставляем современные решения, специально разработанные для оптимизации и улучшения процессов управления и переработки ТБО в вашем регионе.'
                     },
                     {
                         icon: require('../assets/img/icons/aeroland-payment-box-icon-05.png'), 
-                        heading:'Quick account access', 
-                        text:'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        heading:'Теплосети', 
+                        text:'Мы предоставляем интегрированные решения, направленные на эффективное управление и обеспечение надежной работы теплосетевых систем.'
                     },
                     {
                         icon: require('../assets/img/icons/aeroland-payment-box-icon-06.png'), 
-                        heading:'Online credit services', 
-                        text:'Consider this app a platform for connecting people from everywhere based on their preferences.'
+                        heading:'Водоканалы', 
+                        text:'Мы предоставляем комплексные решения для оптимизации работы водоканальных систем, обеспечивая эффективное управление и надежное обеспечение водоснабжения в вашем регионе.'
                     },
                 ]
             }

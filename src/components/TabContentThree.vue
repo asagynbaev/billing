@@ -16,7 +16,7 @@
                             <div class="content">
                                 <h6 class="sub-heading mb-10 text-uppercase">Hotline</h6>
                                 <h4 class="heading">
-                                    <a href="tel:0123456789">0123456789</a>
+                                    <a href="tel:0550146224">0550146224</a>
                                 </h4>
                                 <div class="service_text">24/7 phone and email support</div>
                             </div>
@@ -30,7 +30,7 @@
                             <div class="content">
                                 <h6 class="sub-heading mb-10 text-uppercase">Give your Feedback</h6>
                                 <h4 class="heading">
-                                    <a href="mailto:demo@example.com">demo@example.com</a>
+                                    <a href="mailto:info@billing.kg">info@billing.kg</a>
                                 </h4>
                                 <div class="service_text">24/7 phone and email support</div>
                             </div>

@@ -11,19 +11,19 @@
                             </router-link>
                         </div>
                         <ul class="footer-widget__list">
-                            <li>Your address goes here</li>
+                            <li>г. Бишкек , ул Токтогула 181, кв.6, 720001</li>
                             <li>
-                                <a href="mailto:demo@example.com" class="hover-style-link">demo@example.com</a>
+                                <a href="mailto:info@billing.kg" class="hover-style-link">info@billing.kg</a>
                             </li>
                             <li>
-                                <a href="tel:0123456789" class="hover-style-link">0123456789</a>
+                                <a href="tel:0550146224" class="hover-style-link">0550146224</a>
                             </li>
                             <li>
-                                <a href="www.website.com" target="_blank" class="hover-style-link hover-style-link--green">www.example.com</a>
+                                <a href="#" target="_blank" class="hover-style-link hover-style-link--green">Общество с Ограниченной Ответственностью «Биллинг Кей Джи»</a>
                             </li>
                         </ul>
                     </div>
-                    <div class="col-lg-2 col-md-6 footer-widget">
+                    <!-- <div class="col-lg-2 col-md-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">Who we are</h6>
                         <ul class="footer-widget__list">
                             <li>
@@ -39,8 +39,8 @@
                                 <router-link to="/" class="hover-style-link">FAQ</router-link>
                             </li>
                         </ul>
-                    </div>
-                    <div class="col-lg-2 col-md-6 footer-widget">
+                    </div> -->
+                    <!-- <div class="col-lg-2 col-md-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">Quick links</h6>
                         <ul class="footer-widget__list">
                             <li>
@@ -56,8 +56,8 @@
                                 <router-link to="/" class="hover-style-link">Where to Find Us</router-link>
                             </li>
                         </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-6 offset-lg-1 footer-widget">
+                    </div> -->
+                    <!-- <div class="col-lg-3 col-md-6 offset-lg-1 footer-widget">
                         <div class="twitter-feed-slider">
                             <div class="swiper-container twitter-feed-slider__container">
                                 <div class="swiper-wrapper twitter-feed-slider__wrapper">
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6 text-center text-md-start">
                         <span class="copyright-text">
-                            &copy; 2022 <b>AeroLand</b> Made with <i class="fa fa-heart text-danger"></i> by <a href="https://hasthemes.com/"><b>HasThemes</b></a>
+                            &copy; 2024 <b>billing.kg</b> Made with <i class="fa fa-heart text-danger"></i> by <a href="#"><b>DreamSoft</b></a>
                         </span>
                     </div>
                     <div class="col-md-6 text-center text-md-end">
